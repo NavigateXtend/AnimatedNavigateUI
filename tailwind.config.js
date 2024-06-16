@@ -3,14 +3,28 @@ module.exports = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
-    "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
+    "./src/**/*.{js,ts,jsx,tsx,mdx}",
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      keyframes: {
+        u: {
+          from: { transform: "rotate(360deg)" },
+          to: { transform: "rotate(0deg)" },
+        },
+      },
+      boxShadow: {
+        blue: "0 0 20px rgba(0, 149, 255, 0.5), 0 5px 15px rgba(0, 0, 0, 0.1)",
+      },
+
+      height: {
+        ch: "calc(100vh - 50px)",
+      },
+      maxWidth: {
+        con: "1500px",
+      },
+      color: {
+        darkM: "#18181B",
       },
     },
   },

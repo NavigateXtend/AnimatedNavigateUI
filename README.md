@@ -7,7 +7,7 @@
 Welcome to NavigateUI, your go-to source for amazing React and TailwindCSS Animated components! NavigateUI is a carefully crafted library that brings together a collection of high-quality and customizable UI
 components for React projects.
 
-## [NavigateUI Live Preview Click Here](https://animated.navigateui.com)
+## [Animated NavigateUI](https://animated.navigateui.com)
 
 ## Features
 
@@ -24,9 +24,6 @@ Please make sure that you have installed React, React RouterDOM, Tailwind CSS an
 If you face any problems and if you have any recommendations or suggestions, let us know in our discord community.
 
 ## Join our community [Discord 🚀](https://discord.gg/ezphnpnEXx) 
-
-## Contributors
-[![](https://opencollective.com/NavigateUI/contributors.svg?width=890&button=false)](https://github.com/NavigateUI/AnimatedNavigateUI/graphs/contributors)
 
 ## Contact Us
 

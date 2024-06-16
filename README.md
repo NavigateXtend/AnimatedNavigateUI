@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align='center'>
+<img width='100' height='100' src='https://github.com/mhlehri/NavigateUI/assets/89932017/f5d6b7ba-adec-4f20-b700-310cd7b9679b' alt='navigateui logo'/>
+</p>
 
-## Getting Started
+# ```Animated Navigate UI``` - React and TailwindCSS Animated Components Library
 
-First, run the development server:
+Welcome to NavigateUI, your go-to source for amazing React and TailwindCSS Animated components! NavigateUI is a carefully crafted library that brings together a collection of high-quality and customizable UI
+components for React projects.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## [NavigateUI Live Preview Click Here](https://animated.navigateui.com)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+-   **React Components:** Explore a wide variety of React components that can be easily integrated into your projects.
+-   **Tailwind CSS Integration:** Components are designed with Tailwind CSS in mind, allowing for seamless integration and customization.
+-   **Responsive Design:** All components are built with a focus on responsiveness, ensuring a consistent and beautiful user experience across devices.
+-   **Easy to Customize:** Tailor the components to match your project's design system with simple and intuitive customization options.
+-   **Documentation:** Comprehensive documentation is provided for each component, making it easy for developers to understand and use them.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Note : 
+Please make sure that you have installed React, React RouterDOM, Tailwind CSS and Farmer-motion.
 
-## Learn More
+## Feedbacks:
+If you face any problems and if you have any recommendations or suggestions, let us know in our discord community.
 
-To learn more about Next.js, take a look at the following resources:
+## Join our community [Discord 🚀](https://discord.gg/ezphnpnEXx) 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contributors
+[![](https://opencollective.com/NavigateUI/contributors.svg?width=890&button=false)](https://github.com/NavigateUI/AnimatedNavigateUI/graphs/contributors)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contact Us
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+-   **Shiyam Sarker:**    -   [Linkedin](https://www.linkedin.com/in/shiyam-sarker/)     -   [FaceBook](https://www.facebook.com/shiyamsarker/)    -   [GitHub](https://github.com/shiyam-sarker10)
+-   **Mohammad Arif:**     -   [Linkedin](https://www.linkedin.com/in/mohammad-arif-khan-504b27210/)    -   [FaceBook](https://web.facebook.com/profile.php?id=100052356673540)    -   [GitHub](https://github.com/Mohammadarifcoding)
+-   **MH Lehri:**     -   [Linkedin](https://www.linkedin.com/in/mahmud-hassan-lehri/)    -   [FaceBook](https://www.facebook.com/mahmudhassanlehri)  -  [Twitter](https://twitter.com/mh_lehri)
